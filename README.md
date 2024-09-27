@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil da Carol Cripa 
 
  <div>
-   <a href="https://github.com/CarolCripa">
+   <a href="https://github.com/carolcripa">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolCripa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolCripa&layout=compact&langs_count=6&theme=gruvbox"/>
 </div>
