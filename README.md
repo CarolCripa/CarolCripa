@@ -1,13 +1,13 @@
 ## Bem-vindo(a) ao perfil da Carol Cripa 
 
 <p>
-Hitóriadora em fase de transição de carreira para o desenvolvimento web. Com experiência em preservação digital de arquivos históricos, desenvolvi 
+Historiadora em fase de transição de carreira para o desenvolvimento web. Com experiência em restauração e preservação digital de arquivos históricos, desenvolvi 
 habilidades sólidas em pesquisa, análise, organização de dados e atenção aos detalhes.
 <br>
 Atualmente, estou imersa no Front-end, construindo projetos para solidificar meus conhecimentos e contribuir com a comunidade 
 Open-Source.
 <br>
-Apaixonada por história, tecnologia e café ;), busco fortalecer dia após dia, meus conhecimentos para em breve explorar o Back-end e assim combinar 
+Apaixonada por história, tecnologia e café ;), busco aprimorar continuamente meus conhecimentos para, em breve, estudar Back-end e assim combinar 
 as habilidades de Full-Stack com conhecimentos avançados em tecnologia.
 </p>
 
