@@ -1,14 +1,13 @@
 ## Bem-vindo(a) ao perfil da Carol Cripa 
 
 <p>
-Historiadora em fase de transição de carreira para o desenvolvimento web. Com experiência em restauração e preservação digital de arquivos históricos, desenvolvi 
-habilidades sólidas em pesquisa, análise, organização de dados e atenção aos detalhes.
-<br>
-Atualmente, estou imersa no Front-end, construindo projetos para solidificar meus conhecimentos e contribuir com a comunidade 
-Open-Source.
-<br>
-Apaixonada por história, tecnologia e café ;), busco aprimorar continuamente meus conhecimentos para, em breve, estudar Back-end e assim combinar 
-as habilidades de Full-Stack com conhecimentos avançados em tecnologia.
+Olá, eu sou a Carol 👋
+
+Historiadora que leva a experiência com arquivos e dados para o mundo da tecnologia e da Segurança da Informação 💻. Minha trajetória começou entre arquivos e acervos históricos, onde aprendi a pesquisar, documentar e organizar informações com atenção aos detalhes — habilidades que hoje aplico em cada desafio digital.
+
+Atualmente estudo Análise e Desenvolvimento de Sistemas, aprimoro meus conhecimentos em Python, exploro AWS Cloud e fundamentos de cibersegurança, e aplico na prática ferramentas como IAM, CloudTrail/CloudWatch, Linux e Git/GitHub.
+
+Apaixonada por tecnologia, história e café ☕, estou sempre em busca de aprimorar minhas habilidades em segurança digital, aprender novas técnicas e compartilhar conhecimento com a comunidade.
 </p>
 
  <div>
